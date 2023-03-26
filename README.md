@@ -1,4 +1,4 @@
-# CYBPROX
+# CYBERX
 ## Pre reqs:\
 **Installing python**\
     ``pip install python``
